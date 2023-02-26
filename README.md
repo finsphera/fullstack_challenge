@@ -1,4 +1,4 @@
-#Fullstack challenge
+# Fullstack challenge
 
 - El primer challenge consiste en el maquetado de la página utilizando (HTML,CSS y React, API)
 - El segundo challenge consiste en el desarrollo de 3 algoritmos utilizando javascript o python. Este challenge se encuentra en este mismo repo, en la carpeta que se llama secondChallenge. Las instrucciones vienen en los readme de cada carpeta.
